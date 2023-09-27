@@ -1,0 +1,3 @@
+file:src/main/resources/Feature/F02_Login.feature:4
+file:src/main/resources/Feature/F03_Shopping.feature:5
+file:src/main/resources/Feature/F01_Register.feature:4
